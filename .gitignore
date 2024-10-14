@@ -27,3 +27,6 @@ _ReSharper*/
 
 # NuGet Packages
 *.nupkg
+# Ignoră folderele de build intermediare și de ieșire
+[Bb]in/
+[Oo]bj/
